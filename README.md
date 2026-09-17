@@ -23,3 +23,5 @@ See `.env.example` for the full list of required variables. Copy it to `.env` an
 - Kieu Bao Giang 
 - Tang Thoai Lam
 - Nguyen Nam Khoa
+
+Repo created and branch protection enabled — Week 2 practice session.
